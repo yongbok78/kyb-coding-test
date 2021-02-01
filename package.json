@@ -1,0 +1,23 @@
+{
+  "name": "kyb-coding-test",
+  "version": "1.0.0",
+  "description": "[프로그래머스](https://programmers.co.kr/)라는 사이트를 최근에야 알게 되었다. 이런 훌륭한 사이트를 이제서야 알게 되었다니... 그동안 우물안에서 살고있었구나 하는 생각이 든다.",
+  "main": "change_java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongbok78/kyb-coding-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongbok78/kyb-coding-test/issues"
+  },
+  "homepage": "https://github.com/yongbok78/kyb-coding-test#readme",
+  "dependencies": {
+    "fast-glob": "^3.2.5",
+    "fs-extra": "^9.1.0"
+  }
+}

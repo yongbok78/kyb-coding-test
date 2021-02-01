@@ -19,5 +19,6 @@
   "dependencies": {
     "fast-glob": "^3.2.5",
     "fs-extra": "^9.1.0"
-  }
+  },
+  "devDependencies": {}
 }

@@ -33,5 +33,8 @@ function solution(name) {
   return answer + min;
 }
 
+console.log(solution("BBBAAABBAABBABB"));
 console.log(solution("JEROEN"));
 console.log(solution("JAN"));
+console.log(solution("BBBBBBBBBABB"));
+console.log(solution("AAAAAAAABAAAAAAAA"));
